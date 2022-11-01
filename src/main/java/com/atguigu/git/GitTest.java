@@ -15,6 +15,6 @@ public class GitTest {
         System.out.println("master");
         System.out.println("hoyt-fix");
         System.out.println("push");
-        System.out.println("gitee");
+        System.out.println("gitee success");
     }
 }
